@@ -14,6 +14,17 @@
 
 ---
 
+# 🚫 Repository Deprecated
+
+> [!CAUTION]
+> This project has been deprecated following Discord’s discontinuation of the Active Developer Badge. Because of this change, the repository no longer serves a practical purpose. [🔗 More info](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge)
+
+<a href="https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge">
+  <img width="1080" height="343" alt="image" src="https://github.com/user-attachments/assets/d5dde3e5-8e44-419f-9c51-c385dbe4b23e" />
+</a>
+
+---
+
 ## 🔩 Without installation (Replit)
 
 [![Run on Repl.it](https://repl.it/badge/github/igorkowalczyk/active-dev)](https://repl.it/github/igorkowalczyk/active-dev)
